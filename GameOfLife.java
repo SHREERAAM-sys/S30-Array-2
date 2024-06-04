@@ -1,6 +1,3 @@
-public class GameOfLife {
-}
-
 /**
  Approach: Matrix traversal in all possible 8 directions
 
@@ -16,7 +13,7 @@ public class GameOfLife {
 
  */
 
-class Solution {
+class GameOfLife {
 
     int m,n;
     public void gameOfLife(int[][] board) {
